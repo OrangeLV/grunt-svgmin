@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "svgo": "git://github.com/OrangeLV/svgo.git#v0.4.5-rc1",
+    "svgo": "git://github.com/OrangeLV/svgo.git#v0.4.5-rc2",
     "chalk": "~0.4.0",
     "each-async": "~0.1.2",
     "pretty-bytes": "~0.1.0"
